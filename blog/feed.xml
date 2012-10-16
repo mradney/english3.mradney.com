@@ -3,7 +3,31 @@
     <title>English 3 Int.</title>
     <link href="http://english3.mradney.com/blog/feed.xml" rel="self" />
     <link href="http://english3.mradney.com/blog/" />
-    <updated>None</updated>
+    <updated>2012-10-16T10:02:50+06:00</updated>
     <id>http://english3.mradney.com/blog/</id>
-    
+    <entry>
+        <title type="html"><![CDATA[Prewriting]]></title>
+        <author><name>James Adney</name></author>
+        <link href="http://english3.mradney.com/blog/2012/block2-prewriting.html"/>
+        <published>2012-10-16T00:00:00+06:00</published>
+        <updated>2012-10-16T10:02:50+06:00</updated>
+        <id>http://english3.mradney.com/blog/2012/block2-prewriting.html</id>
+        <category scheme="http://english3.mradney.com/blog/tag/#prewriting" term="prewriting" label="prewriting" />
+        <category scheme="http://english3.mradney.com/blog/tag/#freewriting" term="freewriting" label="freewriting" />
+        <category scheme="http://english3.mradney.com/blog/tag/#hw" term="hw" label="hw" />
+        <content type="html" xml:base="http://english3.mradney.com/" xml:lang="en">
+            <![CDATA[ <h2 id="toc_0">Assignment</h2>
+<p>Don&#39;t forget to finish your homework that&#39;s due tomorrow. After
+you choose your topic, answer the questions in <a href="http://goo.gl/WulDb">the worksheet I
+showed you in class</a>.</p>
+
+<h2 id="toc_1">Helpful Resources</h2>
+
+<ul>
+<li><a href="http://goo.gl/yhSW1">Purdue OWL Writing Process</a></li>
+<li><a href="http://goo.gl/2odLF">How to Freewrite</a></li>
+</ul>
+]]>
+        </content>
+    </entry>
 </feed>
