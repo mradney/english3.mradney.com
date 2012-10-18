@@ -3,9 +3,45 @@
     <title>English 3 Int.</title>
     <link href="http://english3.mradney.com/blog/feed.xml" rel="self" />
     <link href="http://english3.mradney.com/blog/" />
-    <updated>2012-10-16T10:02:50+06:00</updated>
+    <updated>2012-10-17T20:53:01+06:00</updated>
     <id>http://english3.mradney.com/blog/</id>
     <entry>
+        <title type="html"><![CDATA[World Food Week]]></title>
+        <author><name>James Adney</name></author>
+        <link href="http://english3.mradney.com/blog/2012/block2-world-food-week.html"/>
+        <published>2012-10-17T00:00:00+06:00</published>
+        <updated>2012-10-17T20:53:01+06:00</updated>
+        <id>http://english3.mradney.com/blog/2012/block2-world-food-week.html</id>
+        <category scheme="http://english3.mradney.com/blog/tag/#hunger" term="hunger" label="hunger" />
+        <category scheme="http://english3.mradney.com/blog/tag/#nutrition" term="nutrition" label="nutrition" />
+        <category scheme="http://english3.mradney.com/blog/tag/#agriculture" term="agriculture" label="agriculture" />
+        <category scheme="http://english3.mradney.com/blog/tag/#cooperatives" term="cooperatives" label="cooperatives" />
+        <content type="html" xml:base="http://english3.mradney.com/" xml:lang="en">
+            <![CDATA[ <h2 id="toc_0">Agricultural Cooperatives</h2>
+<p>In honor of <strong>World Food Week</strong> and <a href="http://goo.gl/ZJtm6">World Food Day</a> (October 16th), we learned about <strong>agricultural cooperatives</strong>.</p>
+
+<h3 id="toc_1">Video</h3>
+<p>First, we watched the following video about the work being done to
+help support cooperatives in various countries.</p>
+
+<iframe width="640" height="360" src="http://www.youtube.com/embed/hmOoUgMDfLo" frameborder="0" allowfullscreen></iframe>
+
+<h3 id="toc_2">Reading</h3>
+<p>Next, I divided up <a href="http://goo.gl/ooyBi">this leaflet</a> into six sections 
+and had everyone read one section and take notes. Make sure to bring 
+your notes and your section to class on Friday because you will be sharing
+what you read with students that read other sections.</p>
+
+<h2 id="toc_3">Related Sites</h2>
+
+<ul>
+<li><a href="http://goo.gl/ZJtm6">World Food Day</a></li>
+<li><a href="http://goo.gl/Nxlyj">Professional Football Against Hunger</a></li>
+<li><a href="http://goo.gl/3EMLr">United Nations World Food Programme</a></li>
+</ul>
+]]>
+        </content>
+    </entry><entry>
         <title type="html"><![CDATA[Prewriting]]></title>
         <author><name>James Adney</name></author>
         <link href="http://english3.mradney.com/blog/2012/block2-prewriting.html"/>
