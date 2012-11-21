@@ -3,9 +3,22 @@
     <title>English 3 Int.</title>
     <link href="http://english3.mradney.com/blog/feed.xml" rel="self" />
     <link href="http://english3.mradney.com/blog/" />
-    <updated>2012-10-29T16:19:52+06:00</updated>
+    <updated>2012-11-21T13:59:18+06:00</updated>
     <id>http://english3.mradney.com/blog/</id>
     <entry>
+        <title type="html"><![CDATA[Exam 2 Study Guide]]></title>
+        <author><name>James Adney</name></author>
+        <link href="http://english3.mradney.com/blog/2012/block2-study-guide.html"/>
+        <published>2012-11-20T00:00:00+06:00</published>
+        <updated>2012-11-21T13:59:18+06:00</updated>
+        <id>http://english3.mradney.com/blog/2012/block2-study-guide.html</id>
+        <category scheme="http://english3.mradney.com/blog/tag/#exams" term="exams" label="exams" />
+        <content type="html" xml:base="http://english3.mradney.com/" xml:lang="en">
+            <![CDATA[ <h2 id="toc_0">Link</h2>
+<p><a href="http://goo.gl/tcnWo">Here is the study guide for the exam</a></p>
+]]>
+        </content>
+    </entry><entry>
         <title type="html"><![CDATA[Revising Assignment]]></title>
         <author><name>James Adney</name></author>
         <link href="http://english3.mradney.com/blog/2012/block2-revising-assignment.html"/>
