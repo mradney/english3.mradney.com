@@ -3,9 +3,22 @@
     <title>English 3 Int.</title>
     <link href="http://english3.mradney.com/blog/feed.xml" rel="self" />
     <link href="http://english3.mradney.com/blog/" />
-    <updated>2012-11-21T13:59:18+06:00</updated>
+    <updated>2013-01-12T21:52:08+06:00</updated>
     <id>http://english3.mradney.com/blog/</id>
     <entry>
+        <title type="html"><![CDATA[English Schedule]]></title>
+        <author><name>James Adney</name></author>
+        <link href="http://english3.mradney.com/blog/2013/block3-english.html"/>
+        <published>2013-01-12T00:00:00+06:00</published>
+        <updated>2013-01-12T21:52:08+06:00</updated>
+        <id>http://english3.mradney.com/blog/2013/block3-english.html</id>
+        <content type="html" xml:base="http://english3.mradney.com/" xml:lang="en">
+            <![CDATA[ <h2 id="toc_0">New schedule for English and Chinese</h2>
+<p>Starting the week of January 14th (next week) we will be having Chinese
+on Monday, Wednesday, and Friday and English on Tuesday and Thursday.</p>
+]]>
+        </content>
+    </entry><entry>
         <title type="html"><![CDATA[Exam 2 Study Guide]]></title>
         <author><name>James Adney</name></author>
         <link href="http://english3.mradney.com/blog/2012/block2-study-guide.html"/>
